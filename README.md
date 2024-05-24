@@ -40,9 +40,9 @@ I love working on projects related to Data Science, Analytics and ML.
 
 ## Positions
 - 🌟 **Growth and Strategy Intern** at [Datsol Solutions, IIT Kharagpur](https://www.datsol.com)
-  ![Datsol Solutions Logo](https://yourdatsollogo.com/logo.png)
+    ![Datsol Solutions Logo](https://images.app.goo.gl/tgc1jVctpGAKLWaF9)
 - 🌟 **Subject Matter Expert** (Physics) at [Chegg](https://www.chegg.com)
-  ![Chegg Logo](https://yourchegglogo.com/logo.png)
+  ![Chegg Logo](https://images.app.goo.gl/7pKrVCQPRYsCDwH46)
 
 ## Latest Blog Posts
 - [James Anderson's Farewell to Test Cricket](https://medium.com/@_hamza/andersons-final-frontier-lord-s-july-24-6268604dc6af)
