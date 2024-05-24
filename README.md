@@ -1,15 +1,16 @@
 
+<div align="center">
+  <h3>Hi there! I am MUHAMMAD HAMZA! 👋</h3>
+</div>
 
-# Hi there, I'm MUHAMMAD HAMZA 👋
+
 
 ## About Me
-I'm an engineering undergrad at IIT Kharagpur, India, with a passion for Programming, AI/ML, Data Science (with Python & SQL), Data Analytics, Finance and Consultancy.
-
-I'm a student at [IIT Kharagpur](https://www.iitkgp.ac.in), currently based in Faizabad, Uttar Pradesh, India.
-I love working on projects related to Data Science, Analytics and ML.
-Huge interest in Astrophysics, Astronomy and wrote three review papers while in high school, on the corresponding topics like Black Holes, Tolman-Volkoff-Oppenheimer limit, the life cycle of stars with Mathematics.
-A huge cricket (in general Sports fan), have written more than 800 articles on sports, since 2015.
-180k+ view on Quora.
+- 🎓 Engineering undergrad at [IIT Kharagpur, India](https://www.iitkgp.ac.in), with a passion for Programming, AI/ML, Data Science (with Python & SQL), Data Analytics, Finance, and Consultancy.
+- 📍 Currently based in Faizabad, Uttar Pradesh, India.
+- 💻 Love working on projects related to Data Science, Analytics, and ML.
+- 🌌 Huge interest in Astrophysics and Astronomy. Wrote three review papers while in high school on topics like Black Holes, Tolman-Volkoff-Oppenheimer limit, and the life cycle of stars with Mathematics.
+- 🏏 A huge cricket (in general Sports fan), I have written more than 800 articles on sports since 2015, accumulating over 180k views on Quora.
 
 
 ## Languages and Tools
