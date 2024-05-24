@@ -4,6 +4,9 @@
 
 ## About Me
 I'm an engineering undergrad at IIT Kharagpur, India, with a passion for Programming, AI/ML, Data Science (with Python & SQL), Data Analytics, Finance and Consultancy. 
+![Banner](https://yourbannerimageurl.com)
+
+I'm a student at [IIT Kharagpur](https://www.iitkgp.ac.in), currently based in Faizabad, Uttar Pradesh, India.
 I love working on projects related to Data Science, Analytics and ML.
 Huge interest in Astrophysics, Astronomy and wrote three review papers while in high school, on the corresponding topics like Black Holes, Tolman-Volkoff-Oppenheimer limit, the life cycle of stars with Mathematics.
 A huge cricket (in general Sports fan), have written more than 800 articles on sports, since 2015.
