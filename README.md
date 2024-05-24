@@ -80,7 +80,6 @@
 <br> 
 
 - 🌟 <strong>Subject</strong> <strong>Matter</strong> <strong>Expert</strong> in Physics at <strong>Chegg</strong>
-<br>
 <br> 
  (https://www.chegg.com) <br>
 <br>
