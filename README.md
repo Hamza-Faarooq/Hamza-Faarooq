@@ -61,6 +61,9 @@ A huge cricket (in general Sports fan), have written more than 800 articles on s
 - [FIFA WC 2022: Ronaldo's bid to future](https://medium.com/@_hamza/ronaldos-final-wc-ends-in-teary-farewell-ff0badd315a0)
 
 
+## GitHub Contributions
+![Hamza-Faarooq's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Faarooq)
+
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Faarooq&layout=compact&theme=radical)
 
