@@ -66,9 +66,8 @@ A huge cricket (in general Sports fan), have written more than 800 articles on s
 
 
 ### Connect With Me
-- **LinkedIn Badge**:
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-i-hamid-784903204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-i-hamid-784903204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_hamza)
 
