@@ -19,12 +19,11 @@
   <br>
   **Indian Institute of Technology Kharagpur**\
   <br>
-  **West Bengal, India**\
+  <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Kgp.jpg" alt="IIT Kharagpur Logo" width="60"/>
+  <br>
+   **West Bengal, India**\
   *2023 - Present*
   <br>
-  
-  <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Kgp.jpg" alt="IIT Kharagpur Logo" width="60"/>
-
 - 🏫 **High School Diploma**\
   **CBSE- Class 12th**
   <br>
@@ -80,7 +79,7 @@
 <br> 
 
 - 🌟 <strong>Subject</strong> <strong>Matter</strong> <strong>Expert</strong> in Physics at <strong>Chegg</strong>
-<br> 
+  
  (https://www.chegg.com) <br>
 <br>
    <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Chegg.png" alt="Chegg Logo" width="60"/>
