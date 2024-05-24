@@ -13,6 +13,20 @@
 - 🌌 Huge interest in Astrophysics and Astronomy. Wrote three review papers while in high school on topics like Black Holes, Tolman-Volkoff-Oppenheimer limit, and the life cycle of stars with Mathematics.
 - 🏏 A huge cricket (in general Sports fan), I have written more than 800 articles on sports since 2015, accumulating over 180k views on Quora.
 
+## Education
+
+- 🎓 **B.Tech (https://www.iitkgp.ac.in)**\
+  Indian Institute of Technology Kharagpur\
+  West Bengal, India\
+  *2023 - Present*
+  ![IIT Kharagpur Logo](https://www.iitkgp.ac.in/sites/all/themes/bootstrap_basic/logo.png)
+
+- 🏫 **High School Diploma**\
+  /CBSE- Class 12th/
+  *93.4%*
+  /CBSE- Class 10th
+  *96.8%*
+
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
