@@ -22,7 +22,8 @@
   **West Bengal, India**\
   *2023 - Present*
   <br>
-  ![IIT Kharagpur Logo](https://github.com/Hamza-Faarooq/Images/blob/main/Kgp.jpg)
+  
+  <img src="https://github.com/YourUsername/Images/blob/main/Kgp.jpg" alt="IIT Kharagpur Logo" width="60"/>
 
 - 🏫 **High School Diploma**\
   **CBSE- Class 12th**
