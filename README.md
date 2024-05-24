@@ -73,13 +73,16 @@
 ![Astrophysics](https://img.shields.io/badge/Astrophysics-8A2BE2?style=for-the-badge&logo=astronomy&logoColor=white)
 
 ## Positions
-- 🌟 **Growth and Strategy Intern** at [Datsol Solutions, IIT Kharagpur](https://www.datsol.com)
+- 🌟 **Growth and Strategy Intern** at [Datsol Solutions, IIT Kharagpur]
+<br> (https://www.datsol.com)
     <br>
     <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Datsol.png" alt="Datsol Solutions Logo" width="80"/>
 <br>
-- 🌟 **Subject Matter Expert** (Physics) at [Chegg](https://www.chegg.com)
+- 🌟 **Subject Matter Expert** (Physics) at Chegg
 <br>
-   <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Chegg.png" alt="Chegg Logo" width="80"/>
+ (https://www.chegg.com)
+<br>
+   <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Chegg.png" alt="Chegg Logo" width="100"/>
 
 ## Latest Blog Posts
 - [James Anderson's Farewell to Test Cricket](https://medium.com/@_hamza/andersons-final-frontier-lord-s-july-24-6268604dc6af)
