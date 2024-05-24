@@ -23,7 +23,7 @@
   *2023 - Present*
   <br>
   
-  <img src="https://github.com/YourUsername/Images/blob/main/Kgp.jpg" alt="IIT Kharagpur Logo" width="60"/>
+  <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Kgp.jpg" alt="IIT Kharagpur Logo" width="60"/>
 
 - 🏫 **High School Diploma**\
   **CBSE- Class 12th**
