@@ -28,6 +28,13 @@ A huge cricket (in general Sports fan), have written more than 800 articles on s
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL Connector](https://img.shields.io/badge/MySQL%20Connector-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=scipy&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
+![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-000000?style=for-the-badge&logo=yahoo&logoColor=white)
+
 
 ## Skills
 ![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
