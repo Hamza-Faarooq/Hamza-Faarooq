@@ -16,15 +16,21 @@
 ## Education
 
 - 🎓 **B.Tech (https://www.iitkgp.ac.in)**
+  <br>
   **Indian Institute of Technology Kharagpur**\
+  <br>
   **West Bengal, India**\
   *2023 - Present*
+  <br>
   ![IIT Kharagpur Logo](https://www.iitkgp.ac.in/sites/all/themes/bootstrap_basic/logo.png)
 
 - 🏫 **High School Diploma**\
   **CBSE- Class 12th**
+  <br>
   **93.4%**
+  <br>
   **CBSE- Class 10th**
+  <br>
   **96.8%**
 
 
