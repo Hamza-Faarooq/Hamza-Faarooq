@@ -1,6 +1,6 @@
 ####
 <div align="center">
-  <h2;" > Hi there! I am MUHAMMAD HAMZA! 👋 </h2>
+  <h2>;" > Hi there! I am MUHAMMAD HAMZA! 👋 </h2>
 </div>
 
 
