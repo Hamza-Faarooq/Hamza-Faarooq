@@ -75,14 +75,14 @@
 ## Positions
 - 🌟 **Growth and Strategy Intern** at [Datsol Solutions, IIT Kharagpur]
 <br> (https://www.datsol.com)
-    <br>
-    <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Datsol.png" alt="Datsol Solutions Logo" width="80"/>
-<br>
+    <br> <br>
+    <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Datsol.png" alt="Datsol Solutions Logo" width="120"/>
+<br> 
 - 🌟 **Subject Matter Expert** (Physics) at Chegg
+<br> 
+ (https://www.chegg.com) <br>
 <br>
- (https://www.chegg.com)
-<br>
-   <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Chegg.png" alt="Chegg Logo" width="100"/>
+   <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Chegg.png" alt="Chegg Logo" width="70"/>
 
 ## Latest Blog Posts
 - [James Anderson's Farewell to Test Cricket](https://medium.com/@_hamza/andersons-final-frontier-lord-s-july-24-6268604dc6af)
