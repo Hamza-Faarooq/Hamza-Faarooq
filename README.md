@@ -78,7 +78,7 @@
     <br> <br>
     <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Datsol.png" alt="Datsol Solutions Logo" width="120"/>
 <br> 
-- 🌟 **Subject** **Matter** **Expert** (Physics) at **Chegg**
+- 🌟 **Subject** **Matter** **Expert** in Physics at **Chegg**
 <br> 
  (https://www.chegg.com) <br>
 <br>
