@@ -22,7 +22,7 @@
   **West Bengal, India**\
   *2023 - Present*
   <br>
-  ![IIT Kharagpur Logo](https://www.iitkgp.ac.in/sites/all/themes/bootstrap_basic/logo.png)
+  ![IIT Kharagpur Logo](Images/kgp.jpg)
 
 - 🏫 **High School Diploma**\
   **CBSE- Class 12th**
