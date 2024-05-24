@@ -3,8 +3,7 @@
 # Hi there, I'm MUHAMMAD HAMZA 👋
 
 ## About Me
-I'm an engineering undergrad at IIT Kharagpur, India, with a passion for Programming, AI/ML, Data Science (with Python & SQL), Data Analytics, Finance and Consultancy. 
-![Banner](https://yourbannerimageurl.com)
+I'm an engineering undergrad at IIT Kharagpur, India, with a passion for Programming, AI/ML, Data Science (with Python & SQL), Data Analytics, Finance and Consultancy.
 
 I'm a student at [IIT Kharagpur](https://www.iitkgp.ac.in), currently based in Faizabad, Uttar Pradesh, India.
 I love working on projects related to Data Science, Analytics and ML.
