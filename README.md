@@ -60,6 +60,7 @@
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-000000?style=for-the-badge&logo=yahoo&logoColor=white)
 
+<br>
 
 ## Skills
 ![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,6 +75,8 @@
 ![Statistics](https://img.shields.io/badge/Statistics-00CED1?style=for-the-badge&logo=chart-pie&logoColor=white)
 ![Astrophysics](https://img.shields.io/badge/Astrophysics-8A2BE2?style=for-the-badge&logo=astronomy&logoColor=white)
 
+<br>
+
 ## Positions
 - 🌟 **Growth and Strategy Intern** at **Datsol Solutions, IIT Kharagpur**
 <br> (https://www.datsol.com)
@@ -87,11 +90,14 @@
 <br>
    <img src="https://github.com/Hamza-Faarooq/Images/blob/main/Chegg.png" alt="Chegg Logo" width="60"/>
 
+<br>
+
 ## Latest Blog Posts
 - [James Anderson's Farewell to Test Cricket](https://medium.com/@_hamza/andersons-final-frontier-lord-s-july-24-6268604dc6af)
 - [Kohli's Return Masks Grim past](https://medium.com/@_hamza/he-came-he-saw-he-conquered-0b154e2fde6a)
 - [FIFA WC 2022: Ronaldo's bid to future](https://medium.com/@_hamza/ronaldos-final-wc-ends-in-teary-farewell-ff0badd315a0)
 
+<br>
 
 ## GitHub Contributions
 ![Hamza-Faarooq's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Faarooq)
@@ -99,6 +105,7 @@
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Faarooq&layout=compact&theme=radical)
 
+<br>
 
 ### Connect With Me
   
