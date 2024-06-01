@@ -1,7 +1,7 @@
 ####
 <div align="center">
-  <h> Hi there! </h>
-  <h> I am MUHAMMAD HAMZA! 👋 </h>
+  <h1> Hi there! </h1>
+  <h1> I am MUHAMMAD HAMZA! 👋 </h1>
 </div>
 
 
