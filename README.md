@@ -62,6 +62,36 @@
 
 <br>
 
+# GitHub Contributions 
+
+[![GitHub followers](https://img.shields.io/github/followers/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
+[![GitHub stars](https://img.shields.io/github/stars/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
+[![GitHub forks](https://img.shields.io/github/forks/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
+
+## GitHub Stats
+
+![Hamza-Faarooq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Faarooq&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Faarooq&langs_count=8&theme=radical&layout=compact)
+
+## Contributions
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Faarooq&theme=radical)
+
+## Commits
+
+![GitHub Commits](https://badgen.net/github/commits/Hamza-Faarooq/)
+
+## Pull Requests
+
+![GitHub Pull Requests](https://badgen.net/github/prs/Hamza-Faarooq/)
+
+## Issues
+
+![GitHub Issues](https://badgen.net/github/issues/Hamza-Faarooq/)
+
+
+
 ## Skills
 ![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Analytics-00BFFF?style=for-the-badge&logo=chart-bar&logoColor=white)
