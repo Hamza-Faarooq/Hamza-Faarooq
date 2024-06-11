@@ -65,6 +65,7 @@
 # GitHub Contributions 
 
 [![GitHub followers](https://img.shields.io/github/followers/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
+<br>
 [![GitHub stars](https://img.shields.io/github/stars/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
 
 
