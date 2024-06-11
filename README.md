@@ -79,17 +79,6 @@
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Faarooq&theme=radical)
 
-## Commits
-
-![GitHub Commits](https://badgen.net/github/commits/Hamza-Faarooq/)
-
-## Pull Requests
-
-![GitHub Pull Requests](https://badgen.net/github/prs/Hamza-Faarooq/)
-
-## Issues
-
-![GitHub Issues](https://badgen.net/github/issues/Hamza-Faarooq/)
 
 
 
