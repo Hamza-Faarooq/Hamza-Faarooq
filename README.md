@@ -129,11 +129,6 @@
 
 <br>
 
-## GitHub Contributions
-![Hamza-Faarooq's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Faarooq)
-
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Faarooq&layout=compact&theme=radical)
 
 <br>
 
