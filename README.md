@@ -98,6 +98,14 @@
 ![Statistics](https://img.shields.io/badge/Statistics-00CED1?style=for-the-badge&logo=chart-pie&logoColor=white)
 ![Astrophysics](https://img.shields.io/badge/Astrophysics-8A2BE2?style=for-the-badge&logo=astronomy&logoColor=white)
 
+
+<br>
+
+[![Astrophysics](https://img.shields.io/badge/-Astrophysics-1D2951?logo=universe&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/Astrophysics)
+[![Analytics](https://img.shields.io/badge/-Analytics-FF4500?logo=chart-line&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/Analytics)
+[![Mathematics](https://img.shields.io/badge/-Mathematics-008080?logo=sigma&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/Mathematics)
+[![Statistics](https://img.shields.io/badge/-Statistics-FF6347?logo=bar-chart&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)
+
 <br>
 
 ## Positions
