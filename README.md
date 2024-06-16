@@ -33,7 +33,7 @@
   <br>
   **96.8%**
 
-<br>
+<br> <br>
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,7 +43,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br>
+<br> <br>
 
 ## Tools and Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -63,7 +63,7 @@
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-000000?style=for-the-badge&logo=yahoo&logoColor=white)
 
-<br>
+<br><br>
 
 # GitHub Contributions 
 
@@ -83,7 +83,7 @@
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Faarooq&theme=radical)
 
 
-
+<br> <br>
 
 ## Skills
 ![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
