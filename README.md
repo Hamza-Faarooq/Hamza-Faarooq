@@ -82,7 +82,8 @@
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Faarooq&theme=radical)
 
 
-<br> <br>
+
+
 
 ## Skills
 ![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
