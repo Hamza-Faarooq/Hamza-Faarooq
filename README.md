@@ -7,11 +7,10 @@
 
 
 ## About Me
-- 🎓 Engineering undergrad at [IIT Kharagpur, India](https://www.iitkgp.ac.in), with a passion for Programming, AI/ML, Data Science (with Python & SQL), Data Analytics, Finance, and Consultancy.
-- 📍 Currently based in Faizabad, Uttar Pradesh, India.
+- 🎓 Engineering undergrad at [IIT Kharagpur, India](https://www.iitkgp.ac.in), with a passion for Programming, AI/ML, Data Science (with Python & SQL), Data Analytics.
 - 💻 Love working on projects related to Data Science, Analytics, and ML.
-- 🌌 Huge interest in Astrophysics and Astronomy. Wrote three review papers while in high school on topics like Black Holes, Tolman-Volkoff-Oppenheimer limit, and the life cycle of stars with Mathematics.
-- 🏏 A huge cricket (in general Sports fan), I have written more than 800 articles on sports since 2015, accumulating over 180k views on Quora.
+- 🌌 Huge interest in Astrophysics and Astronomy.
+- 🏏 A huge cricket (in general Sports fan), I have written more than 800 articles on sports since 2015, accumulating over 650k views on Quora.
 
 ## Education
 
@@ -41,10 +40,7 @@
 [![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL Connector](https://img.shields.io/badge/MySQL%20Connector-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-000000?style=for-the-badge&logo=yahoo&logoColor=white)
 
@@ -63,26 +59,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Faarooq&langs_count=8&theme=radical&layout=compact)
 
-## Contributions
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Faarooq&theme=radical)
-
-
-
-
-
-## Skills
-![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-00BFFF?style=for-the-badge&logo=chart-bar&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Mathematics](https://img.shields.io/badge/Mathematics-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-00CED1?style=for-the-badge&logo=chart-pie&logoColor=white)
-![Astrophysics](https://img.shields.io/badge/Astrophysics-8A2BE2?style=for-the-badge&logo=astronomy&logoColor=white)
 
 
 <br>
