@@ -6,12 +6,6 @@
 
 
 
-## About Me
-- 🎓 Engineering undergrad at [IIT Kharagpur, India](https://www.iitkgp.ac.in), with a passion for Programming, AI/ML, Data Science (with Python & SQL), Data Analytics.
-- 💻 Love working on projects related to Data Science, Analytics, and ML.
-- 🌌 Huge interest in Astrophysics and Astronomy.
-- 🏏 A huge cricket (in general Sports fan), I have written more than 800 articles on sports since 2015, accumulating over 650k views on Quora.
-
 ## Education
 
 - 🎓 **B.Tech (https://www.iitkgp.ac.in)**
