@@ -4,14 +4,6 @@
   <h1> I am MUHAMMAD HAMZA! 👋 </h1>
 </div>
 
-
-
-## Education
-
-- 🎓 **B.Tech (https://www.iitkgp.ac.in)**
-  <br>
-  **Indian Institute of Technology Kharagpur**\
- 
 <br> <br>
 
 ## Languages and Tools
