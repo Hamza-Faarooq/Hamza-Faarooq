@@ -45,12 +45,6 @@
 
 <br>
 
-
-## Latest Blog Posts
-- [James Anderson's Farewell to Test Cricket](https://medium.com/@_hamza/andersons-final-frontier-lord-s-july-24-6268604dc6af)
-- [Kohli's Return Masks Grim past](https://medium.com/@_hamza/he-came-he-saw-he-conquered-0b154e2fde6a)
-- [FIFA WC 2022: Ronaldo's bid to future](https://medium.com/@_hamza/ronaldos-final-wc-ends-in-teary-farewell-ff0badd315a0)
-
 <br>
 
 
