@@ -49,6 +49,10 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-i-hamid-784903204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hamza1609)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/webber1/)
+
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_hamza)
 
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Muhammad-Hamza-1682)
