@@ -30,11 +30,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
 
 
-## GitHub Stats
-
-![Hamza-Faarooq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Faarooq&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Faarooq&langs_count=8&theme=radical&layout=compact)
 
 
 
