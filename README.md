@@ -31,7 +31,7 @@ I also write about cricket and sports on [Medium](https://medium.com/@_hamza) �
 
 | Period | Institution | Topic |
 |--------|-------------|-------|
-| May 2025 – Present | University of Manchester *(Prof. Anirbit Mukherjee)* | Neural operators on spherical domains · DeepONet · Graph CNN · SIREN · SHT |
+| Nov 2025 – Present | University of Manchester *(Prof. Anirbit Mukherjee)* | Neural operators on spherical domains · DeepONet · Graph CNN · SIREN · SHT |
 | Apr – Aug 2025 | IIM Ranchi *(Prof. Sobhan Sarkar)* | Multimodal fusion · BERT + ViT + CLIP · Dempster-Shafer evidential learning |
 | May – Jun 2025 | University of Oulu *(Prof. Shuai Lee)* | SNN pruning · Constrained quadratic optimisation · CVXPY |
 
