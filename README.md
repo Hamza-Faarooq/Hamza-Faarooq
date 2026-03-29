@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>ML Researcher &nbsp;·&nbsp; IIT Kharagpur</b><br>
-  Dual Degree (B.Tech + M.Tech) · Chemical Engineering · AI Specialisation · CGPA 8.68
+  Dual Degree (B.Tech + M.Tech) · Chemical Engineering · AI Specialisation 
 </p>
 
 <p align="center">
