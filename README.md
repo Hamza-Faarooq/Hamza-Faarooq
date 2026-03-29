@@ -6,12 +6,12 @@
 </p>
 
   ### Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=github&logoColor=white)](https://hamza-faarooq.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-hamza-i-hamid-784903204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/muhammad-hamza-iftekhar-hamid-784903204/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-iftekhar-hamid-784903204/)
+[![DeepML](https://img.shields.io/badge/DeepML-000000?style=for-the-badge)](https://www.deep-ml.com/profile/q0Ezx2mCebbiY205084nlqINeHI2)
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hamza1609)
-
-
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_hamza)
 
