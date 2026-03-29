@@ -37,30 +37,11 @@ I also write about cricket and sports on [Medium](https://medium.com/@_hamza) �
 
 ---
 
-## Selected Projects
-
-- **Physics-Informed Generative CFD Solver** — PIKAN-FNO integrating Kolmogorov–Arnold Networks with Fourier Neural Operators for Navier-Stokes PDEs; DDPM with custom U-Net backbone for flow field generation *(2026)*
-- **Robustness & Calibration of Transformer Classifiers** — DistilBERT on SST-2; ECE drift analysis (0.074 → 0.103) under token-level perturbations *(2025)*
-- **ML-Driven Volatility Surface Modeling** — High-frequency IV forecasting on 578K+ NIFTY50 records; MSE 0.00009; 10× over baseline *(2025)*
-- **Neural Network from Scratch** — Modular feedforward net; 91.8% accuracy on MNIST; zero framework dependency *(2024)*
-
----
 
 ## Publications
 
 **[C.1]** Muhammad Hamza et al. *Movie Review Helpfulness Prediction using Semantic Alignment & Evidential Fusion-based Multimodal Approach.*  
 → **iSAI-NLP 2025** · also accepted at **ICEEE–IEEE 2026**
-
----
-
-## Competitions
-
-| Competition | Result | Year |
-|-------------|--------|------|
-| Optiver Trade-athon | **Rank 23** among IIT competitors | Mar 2026 |
-| Convolve 4.0 · Pan-IIT AI/ML (IIT Madras) | **All India Rank 102** / 3000+ | Feb 2026 |
-| NK Securities Research Hackathon | **Global Rank 198 / 6000+** · MSE 9.8e-5 | Jun 2025 |
-| Convolve 3.0 · Pan-IIT AI/ML (IIT Guwahati) | **Top 50 / 4000+** teams | Jan 2025 |
 
 ---
 
