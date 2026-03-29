@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://hamza-faarooq.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
   &nbsp;
-  <a href="[https://www.linkedin.com/in/muhammad-hamza-i-hamid-784903204]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="[[https://www.linkedin.com/in/muhammad-hamza-i-hamid-784903204](https://www.linkedin.com/in/muhammad-hamza-iftekhar-hamid-784903204/)]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="https://medium.com/@_hamza"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
   &nbsp;
