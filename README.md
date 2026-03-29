@@ -93,14 +93,13 @@ I also write about cricket and sports on [Medium](https://medium.com/@_hamza) â€
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
+# GitHub Contributions 
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Faarooq&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Faarooq&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
+<br>
+[![GitHub stars](https://img.shields.io/github/stars/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
+<br> <br>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hamza-Faarooq.Hamza-Faarooq)
 
 ---
 
