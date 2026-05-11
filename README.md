@@ -42,6 +42,7 @@ I also write about cricket and sports on [Medium](https://medium.com/@_hamza) �
 
 **[C.1]** Muhammad Hamza et al. *Movie Review Helpfulness Prediction using Semantic Alignment & Evidential Fusion-based Multimodal Approach.*  
 → **iSAI-NLP 2025** · also accepted at **ICEEE–IEEE 2026**
+[Link to the paper]([https://medium.com/@_hamza)](https://ieeexplore.ieee.org/abstract/document/11492803/metrics#metrics)
 
 ---
 
