@@ -23,7 +23,7 @@
 
 I'm a third-year undergrad at **IIT Kharagpur** working on problems at the intersection of scientific machine learning, neural operators, and deep learning. My current focus is on operator learning for PDEs on non-Euclidean domains, with broader interests in LLMs, computer vision, and neuromorphic computing.
 
-I also write about cricket and sports on [Medium](https://medium.com/@_hamza) — 900k+ views on Quora.
+I also write about cricket and sports on [Medium](https://medium.com/@_hamza) — 1 Million+ views on Quora.
 
 ---
 
