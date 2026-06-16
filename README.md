@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Hamza</h1>
+<h1 align="center">MUHAMMAD HAMZA</h1>
 
 <p align="center">
   <b>ML Researcher &nbsp;·&nbsp; IIT Kharagpur</b><br>
