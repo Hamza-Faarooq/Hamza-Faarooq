@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Muhammad Hamza 👋</h1>
+  <h1>Hi, I'm Muhammad Hamza </h1>
   <h3>Machine Learning Researcher &nbsp;·&nbsp; IIT Kharagpur</h3>
   <p><i>Dual Degree (B.Tech + M.Tech) · Chemical Engineering · AI Specialisation</i></p>
 
@@ -21,7 +21,6 @@
 I'm a third-year undergraduate at **IIT Kharagpur**, deeply passionate about solving complex physical problems at the intersection of scientific machine learning, neural operators, and deep learning. 
 
 *   🔭 **Current Focus:** Operator learning for PDEs on non-Euclidean domains (e.g., spherical harmonics), alongside broader interests in LLMs, computer vision, and neuromorphic computing.
-*   💻 **Competitive Programming:** I regularly practice algorithmic problem-solving and data structures using C++ and Python.
 *   ✍️ **Writing:** I document my ML research on my personal blog and write about cricket and sports on [Medium](https://medium.com/@_hamza) (over 1 Million+ views on Quora).
 
 ---
