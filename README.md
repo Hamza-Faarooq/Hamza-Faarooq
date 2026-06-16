@@ -1,98 +1,53 @@
-<div align="center">
+<h1 align="center">Muhammad Hamza</h1>
 
-```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-   ███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ 
-   ████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗
-   ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║
-   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║
-   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║
-   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-                    ██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗ 
-                    ██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗
-                    ███████║███████║██╔████╔██║  ███╔╝ ███████║
-                    ██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║
-                    ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
-                    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-```
+<p align="center">
+  <b>ML Researcher &nbsp;·&nbsp; IIT Kharagpur</b><br>
+  Dual Degree (B.Tech + M.Tech) · Chemical Engineering · AI Specialisation 
+</p>
 
-### ML Researcher · IIT Kharagpur
-**Dual Degree (B.Tech + M.Tech) · Chemical Engineering · AI Specialisation**
+  ### Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=github&logoColor=white)](https://hamza-faarooq.github.io)
 
-*Building at the frontier of neural operators, scientific ML, and deep learning*
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8)](https://hamza-faarooq.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-iftekhar-hamid-784903204/)
+[![DeepML](https://img.shields.io/badge/DeepML-000000?style=for-the-badge)](https://www.deep-ml.com/profile/q0Ezx2mCebbiY205084nlqINeHI2)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hamza1609)
+
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_hamza)
-[![DeepML](https://img.shields.io/badge/Deep--ML_Profile-111827?style=for-the-badge&logoColor=white)](https://www.deep-ml.com/profile/q0Ezx2mCebbiY205084nlqINeHI2)
 
-</div>
-
----
-
-## `whoami`
-
-> Third-year at **IIT Kharagpur** (one of India's most competitive engineering institutions), working where **physics meets learning theory**.  
-> My research spans neural operators for PDEs on non-Euclidean domains, multimodal fusion with evidential learning, and neuromorphic/sparse-network architectures.  
-> I write about cricket and data on [Medium](https://medium.com/@_hamza) — **1M+ views on Quora**.
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Muhammad-Hamza-1682)
 
 ---
 
-## ⚡ Research Snapshot
+## About
 
-Three concurrent research engagements across three countries — each at a genuinely hard frontier:
+I'm a third-year undergrad at **IIT Kharagpur** working on problems at the intersection of scientific machine learning, neural operators, and deep learning. My current focus is on operator learning for PDEs on non-Euclidean domains, with broader interests in LLMs, computer vision, and neuromorphic computing.
 
-<table>
-  <thead>
-    <tr>
-      <th>🌍 Institution</th>
-      <th>Period</th>
-      <th>Problem</th>
-      <th>Key Methods</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>University of Manchester</b><br><sub>Prof. Anirbit Mukherjee</sub></td>
-      <td>Nov 2025 – Present</td>
-      <td>Operator learning for PDEs on <b>spherical / non-Euclidean domains</b></td>
-      <td>DeepONet · Graph CNN · SIREN · Spherical Harmonic Transforms</td>
-    </tr>
-    <tr>
-      <td><b>IIM Ranchi</b><br><sub>Prof. Sobhan Sarkar</sub></td>
-      <td>Apr – Aug 2025</td>
-      <td><b>Multimodal fusion</b> under uncertainty for NLP + vision tasks</td>
-      <td>BERT · ViT · CLIP · Dempster-Shafer Evidential Learning</td>
-    </tr>
-    <tr>
-      <td><b>University of Oulu</b><br><sub>Prof. Shuai Lee</sub></td>
-      <td>May – Jun 2025</td>
-      <td><b>Structured pruning</b> for spiking neural networks</td>
-      <td>SNNs · Constrained Quadratic Optimisation · CVXPY</td>
-    </tr>
-  </tbody>
-</table>
+I also write about cricket and sports on [Medium](https://medium.com/@_hamza) — 1 Million+ views on Quora.
 
 ---
 
-## 📄 Publications
+## Research
 
-**[C.1]** Muhammad Hamza et al.  
-***Movie Review Helpfulness Prediction using Semantic Alignment & Evidential Fusion-based Multimodal Approach***
-
-- 📍 **iSAI-NLP 2025** (IEEE)  
-- 📍 **ICEEE–IEEE 2026** *(also accepted)*  
-- 🔗 [Read on IEEE Xplore →](https://ieeexplore.ieee.org/abstract/document/11492803/metrics#metrics)
-
-> *Combines BERT + ViT + CLIP under a Dempster-Shafer evidential fusion framework to predict the utility of multimodal review content — a hard, real-world alignment problem.*
+| Period | Institution | Topic |
+|--------|-------------|-------|
+| Nov 2025 – Present | University of Manchester *(Prof. Anirbit Mukherjee)* | Neural operators on spherical domains · DeepONet · Graph CNN · SIREN · SHT |
+| Apr – Aug 2025 | IIM Ranchi *(Prof. Sobhan Sarkar)* | Multimodal fusion · BERT + ViT + CLIP · Dempster-Shafer evidential learning |
+| May – Jun 2025 | University of Oulu *(Prof. Shuai Lee)* | SNN pruning · Constrained quadratic optimisation · CVXPY |
 
 ---
 
-## 🛠 Technical Stack
+
+## Publications
+
+**[C.1]** Muhammad Hamza et al. *Movie Review Helpfulness Prediction using Semantic Alignment & Evidential Fusion-based Multimodal Approach.*  
+→ **iSAI-NLP 2025** · also accepted at **ICEEE–IEEE 2026**
+<br>
+[Link to the paper](https://ieeexplore.ieee.org/abstract/document/11492803/metrics#metrics)
+
+---
+
+## Stack
 
 **Languages**
 
@@ -101,7 +56,7 @@ Three concurrent research engagements across three countries — each at a genui
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**ML / DL Frameworks**
+**ML / DL**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -109,7 +64,7 @@ Three concurrent research engagements across three countries — each at a genui
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Scientific Computing & Tooling**
+**Data & Tools**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -119,43 +74,16 @@ Three concurrent research engagements across three countries — each at a genui
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Faarooq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Faarooq&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hamza-Faarooq&theme=tokyonight&hide_border=true)
+# GitHub Contributions 
 
 [![GitHub followers](https://img.shields.io/github/followers/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
-&nbsp;
+<br>
 [![GitHub stars](https://img.shields.io/github/stars/Hamza-Faarooq?style=social)](https://github.com/Hamza-Faarooq)
-&nbsp;
+<br> <br>
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hamza-Faarooq.Hamza-Faarooq)
 
-</div>
-
 ---
 
-## 🔭 What I'm Working On
-
-```python
-current_focus = {
-    "primary"   : "Neural operators on spherical domains (DeepONet + Graph CNN + SHT)",
-    "reading"   : "Geometric deep learning, equivariant networks, physics-informed NNs",
-    "writing"   : "Cricket analytics & probabilistic sports modelling (Medium)",
-    "next"      : "Scaling operator learning to climate & geophysical PDE systems",
-}
-```
-
----
-
-<div align="center">
-
-*Open to research collaborations, internships, and ML engineering roles.*  
-**Reach me → [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-iftekhar-hamid-784903204/) · [Portfolio](https://hamza-faarooq.github.io)**
-
-</div>
+<!---
+Hamza-Faarooq/Hamza-Faarooq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
