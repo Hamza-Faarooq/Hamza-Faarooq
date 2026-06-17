@@ -20,7 +20,7 @@
 
 I'm a third-year undergraduate at **IIT Kharagpur**, deeply passionate about solving complex physical problems at the intersection of scientific machine learning, neural operators, and deep learning. 
 
-\*   **Writing:** I document my ML research on my personal blog [Blog]((https://hamza-faarooq.github.io/blogs.html) and write about cricket and sports on [Medium](https://medium.com/@_hamza) (over 1 Million+ views on Quora).
+\*   **Writing:** I document my ML research on my personal blog [Blog](https://hamza-faarooq.github.io/blogs.html) and write about cricket and sports on [Medium](https://medium.com/@_hamza) (over 1 Million+ views on Quora).
 
 ---
 
