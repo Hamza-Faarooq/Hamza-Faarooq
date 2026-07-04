@@ -32,7 +32,6 @@ me.say_hi()
 - 🎓 **Third-year undergraduate** at **IIT Kharagpur**, Dual Degree (B.Tech + M.Tech), Chemical Engineering with AI Specialisation
 - 🧠 Passionate about solving complex physical problems at the intersection of **scientific machine learning**, **neural operators**, and **deep learning**
 - ✍️ Documents ML research on my [blog](https://hamza-faarooq.github.io/blogs.html) and writes about cricket and sports on [Medium](https://medium.com/@_hamza) (1M+ views on Quora)
-- 🚀 Always exploring new research directions and contributing to open source
 
 ---
 
@@ -52,7 +51,7 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,pytorch,sklearn,latex,git,vscode&perline=6" />
 </p>
 
-**Languages:**
+**Languages:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -85,19 +84,6 @@ me.say_hi()
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Faarooq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Hamza-Faarooq/burgers-deeponet">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza-Faarooq&repo=burgers-deeponet&theme=tokyonight&hide_border=true" alt="burgers-deeponet" />
-  </a>
-</p>
-
-- **[`burgers-deeponet`](https://github.com/Hamza-Faarooq/burgers-deeponet)**: A PyTorch implementation and accompanying research blog documenting the application of DeepONet neural networks to solve Burger's equations, elevating mathematical rigor in ML representations.
-- **Spherical Heat Equation Simulator**: DeepONet implementation utilizing PyTorch to train branch and trunk networks on spherical harmonics data to simulate heat equations on a sphere.
 
 ---
 
