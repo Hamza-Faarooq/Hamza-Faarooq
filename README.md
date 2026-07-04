@@ -152,7 +152,6 @@ me.say_hi()
 </p>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/Hamza-Faarooq">Hamza-Faarooq</a> - Let's build something amazing together!!</i>
 </div>
 
 ---
