@@ -89,10 +89,20 @@ me.say_hi()
 
 ## 📄 Publications
 
-> **[C.1] Movie Review Helpfulness Prediction using Semantic Alignment & Evidential Fusion-based Multimodal Approach**
-> *Muhammad Hamza et al.*
-> 🏆 **iSAI-NLP 2025** · Accepted at **ICEEE–IEEE 2026**
+> **[C.1] Movie Review Helpfulness Prediction using Semantic Alignment & Evidential Fusion-based Multimodal Approach**  
+> *Muhammad Hamza et al.*  
+> 🏆 Accepted at **iSAI-NLP 2025** · Accepted and Published at **ICEEE–IEEE 2026**  
 > 🔗 [Read the Paper](https://ieeexplore.ieee.org/abstract/document/11492803/metrics#metrics)
+
+> **[P.1] Curvature-Weighted Gradient Diversity: A Noise Measure for Geometry-Adaptive SGD Schedules** *(Preprint)*  
+> *Muhammad Hamza, Ayush Goel*  
+> 📄 **arXiv:2606.30455 (June 2026)**  
+> 🔗 [Read on arXiv](https://arxiv.org/abs/2606.30455)
+
+> **[P.2] Criticality-Constrained Iterative Pruning for Energy-Efficient Spiking Neural Networks via Combined Importance Scoring** *(Preprint)*  
+> *Muhammad Hamza*  
+> 📄 **arXiv:2606.30676 (June 2026)**  
+> 🔗 [Read on arXiv](https://arxiv.org/abs/2606.30676)
 
 ---
 
