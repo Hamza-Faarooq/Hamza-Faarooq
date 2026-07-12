@@ -16,7 +16,6 @@
 class MuhammadHamza:
     def __init__(self):
         self.username = "Hamza-Faarooq"
-        self.location = "India 🇮🇳"
         self.education = "Dual Degree (B.Tech + M.Tech), Chemical Engineering, AI Specialisation @ IIT Kharagpur"
         self.interests = ["Scientific ML", "Neural Operators", "Deep Learning", "Multimodal Fusion"]
         self.languages = ["Python", "C++", "C", "SQL"]
