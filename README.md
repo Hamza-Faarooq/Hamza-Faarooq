@@ -28,7 +28,7 @@ me = MuhammadHamza()
 me.say_hi()
 ```
 
-- 🎓 **Third-year undergraduate** at **IIT Kharagpur**, Dual Degree (B.Tech + M.Tech), Chemical Engineering with AI Specialisation
+- 🎓 **Fourth-year engineering undergraduate** at **IIT Kharagpur**, Dual Degree (B.Tech + M.Tech), Chemical Engineering with minor in Machine Learning and Applications
 - 🧠 Passionate about solving complex physical problems at the intersection of **scientific machine learning**, **neural operators**, and **deep learning**
 - ✍️ Documents ML research on my [blog](https://hamza-faarooq.github.io/blogs.html) and writes about cricket and sports on [Medium](https://medium.com/@_hamza) (1M+ views on Quora)
 
