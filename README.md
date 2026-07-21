@@ -34,14 +34,6 @@ me.say_hi()
 
 ---
 
-## 🔬 Research & Experience
-
-| Period | Institution | Research Focus |
-| :--- | :--- | :--- |
-| **Nov 2025 – Present** | **University of Manchester**<br>*(Prof. Anirbit Mukherjee)* | Neural operators on spherical domains · DeepONet · Graph CNN · SIREN · SHT |
-| **Apr 2025 – Aug 2025** | **IIM Ranchi**<br>*(Prof. Sobhan Sarkar)* | Multimodal fusion · BERT + ViT + CLIP · Dempster-Shafer evidential learning |
-| **May 2025 – Jun 2025** | **University of Oulu**<br>*(Prof. Shuai Lee)* | SNN pruning · Constrained quadratic optimisation · CVXPY |
-
 ---
 
 ## 🛠️ Tech Stack
